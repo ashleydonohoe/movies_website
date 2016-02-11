@@ -72,4 +72,5 @@ billy_madison = media.Movie("Billy Madison",
 movies = [toy_story, eurotrip, the_year_dolly_parton_was_my_mom,
 		camp_harlow, moonrise_kingdom, billy_madison]
 
+# Takes the list of movie instances to make an HTML file that will then open in browser
 fresh_tomatoes.open_movies_page(movies)
